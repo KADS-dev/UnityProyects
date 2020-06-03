@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TheNightSky" size="5.000000 6.650000" />
+    <ImageTarget name="TheNightSkyLandscape" size="5.000000 3.759398" />
+  </Tracking>
+</QCARConfig>
